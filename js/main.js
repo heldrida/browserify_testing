@@ -1,5 +1,5 @@
-var unique = require('uniq');
+var foobar = require('./foobar.js');
 
 var data = [1, 2, 3];
 
-console.log(unique(data));
+console.log(data);
